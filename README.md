@@ -14,9 +14,9 @@
 
 ---
 ### 🎓 Educations 🎓
-- **2024-2025**: *Master in Data Science* - Universiti Teknologi Malaysia (UTM)
-- **2019-2021**: *BSc (Hons.) Management Mathematics* - Univerisiti Teknologi MARA (UiTM)
-- **2016-2018**: *Diploma in Actuarial Science* - Univerisiti Teknologi MARA (UiTM)
+- **2024-2025**: *Master in Data Science* - Universiti Teknologi Malaysia (UTM), Skudai, Johor
+- **2019-2021**: *BSc (Hons.) Management Mathematics* - Universiti Teknologi MARA (UiTM), Arau, Perlis
+- **2016-2018**: *Diploma in Actuarial Science* - Universiti Teknologi MARA (UiTM), Seremban, Negeri Sembilan
   
 ---
 ### 💼 Experiences 💼
