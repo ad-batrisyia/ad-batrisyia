@@ -28,7 +28,8 @@
 
 ---
 ### 💻 Projects 💻
-*Coming soon..*
+1) [E-Commerce Transaction Analysis with SQL](https://github.com/ad-batrisyia/sql-learning-and-projects/tree/main/projects/Online%20Sales%20Analysis) 
+2) [Rice Transportation Cost Optimization Using Integer Linear Programming (ILP)](https://github.com/ad-batrisyia/rice-transportation-optimization-ilp) 
 
 
 ---
