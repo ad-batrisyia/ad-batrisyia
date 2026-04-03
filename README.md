@@ -32,6 +32,11 @@
 2) [Malaysia Tourism Analytics Dashboard](https://github.com/ad-batrisyia/malaysia-tourism-analytics-dashboard)
 3) [Money Laundering Transaction Detection Using Machine Learning Algorithms](https://github.com/ad-batrisyia/money-laundering-detection-ml/tree/main)
 
+### 📋 Data Governance Case Studies 📋
+1) [Data Governance Framework Analysis](https://github.com/ad-batrisyia/data-governance-case-studies/blob/main/Data%20Governance%20Framework%20Analysis.pdf)
+2) [Data Quality in Data Governance](https://github.com/ad-batrisyia/data-governance-case-studies/blob/main/Data%20Quality%20in%20Data%20Governance.pdf)
+3) [Data Breaches in Data Governance](https://github.com/ad-batrisyia/data-governance-case-studies/blob/main/Data%20Breaches%20in%20Data%20Governance.pdf)
+
 
 ---
 ### 👩‍💻 Skills👩‍💻
