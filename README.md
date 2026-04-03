@@ -9,7 +9,7 @@
 </p>
 
 
-<h4 align="center">Currently diving into the world of data science 🧠📊 Let's explore together! 🚀</h4>
+<h4 align="center">Currently diving into the world of data and on my way to become a data professional 🧠📊 Let's treat data as an asset 🚀</h4>
 
 
 ---
